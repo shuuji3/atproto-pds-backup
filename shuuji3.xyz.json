@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/multikey/v1",
+    "https://w3id.org/security/suites/secp256k1-2019/v1"
+  ],
+  "id": "did:plc:6yg3amb6efesrcbrkctyyfio",
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "verificationMethod": [
+    {
+      "id": "did:plc:6yg3amb6efesrcbrkctyyfio#atproto",
+      "type": "Multikey",
+      "controller": "did:plc:6yg3amb6efesrcbrkctyyfio",
+      "publicKeyMultibase": "zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+    }
+  ],
+  "service": [
+    {
+      "id": "#atproto_pds",
+      "type": "AtprotoPersonalDataServer",
+      "serviceEndpoint": "https://inkcap.us-east.host.bsky.network"
+    }
+  ]
+}

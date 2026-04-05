@@ -1,0 +1,147 @@
+{
+  "alsoKnownAs": [
+    "at://shuuji3.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://bsky.social",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "BA9T1YuoMYEJg_VIjxr73uEeSvXzw2j_eVgnJIeaefUyZbAo-h5qmIp5duxoaGlOLqfVEftFmklLn0TkN3wSGQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shXjHeiBuRCKmM36cuYnm7YEMzhGnCmCyW92sRJ9pribSF"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.bsky.social"
+  ],
+  "prev": "bafyreihwbwydaprbjeuiqmkqu6gbkdsvrs76sqsopo24y4xykvxfslvu5i",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "sh8KGfJwJ5g4iheB2SGuVs9tL3de3J_TZdTWqzkBdYY2N0Q3m01e6jlU8E41aGKmTp1-950n753VcBKVRVpJuw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreia7qyg3n5ftv7fuvj6kgj4nnrb3j7kbwnfla4rjrpyhxv2eqtu3ze",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "BlBEXJp33z3V9KjiFJLotRe0cY9xktSenToVmsTjIQkA1lWPyyPRXCpnT0oca9aXgLWseDhjNqKjBprHgZkx0g",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.bsky.social"
+  ],
+  "prev": "bafyreibkig5usggmyoa4e57krhooie5p634dsk33jwqitvsaxaiofva3ly",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "nPmfxWd0TsAEaEPvWHCeToQzT2n0_K0WuEhIgmc6I5cEIDhNV8C2rUSwyHDiPhnw3FHxWlAy0bAy9dR8JUi4jg",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreieawkrvdsdneoaoxmlh2cmsy7s3xnztvlem4bj2uxnwiwioa53clq",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "eNn9kD77o8cW4XUxiGSFn408Wg7U-gJCsC-mLSqh0ScUculygt7TVKFRB4I7Ng0IxFrZj7-P022_ZsAs4G0K5g",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.bsky.social"
+  ],
+  "prev": "bafyreiesvnwlr4gyvd4g3hzefcdc4yjrvfihqh3w4x33ofkpt4ayux5tf4",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "yymiwXkrNjrwBhrwJKyGrpdcbqL13sGwU0XWL4U_QWEZrC_umnBiMW1wpUFqID_KIrCkUO9InyZ8E4qDFvZ3Iw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreieo2miyy7kj3t6v3racbgjyo4qzhpwmg2eiuxrycjwqtqc5xxioyu",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "rYfzH0KDDVojhlvCWi8fks1QjF_24q6Cvo9ry2fFh8oh7vUymr0Gf3OjetSkfE9KN8g6NCEEztGymkryOTykQw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
