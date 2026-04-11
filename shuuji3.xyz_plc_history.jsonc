@@ -145,3 +145,25 @@
     "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreibehiyh5robypr3ouyfb3a3g22pxft47i2bgujrhsbtwz3gxjb5ty",
+  "rotationKeys": [
+    "did:key:zQ3shuCZ57kYtUB6z5Fca47C4ZWQzGLpsWrpAngTkhig1c9kR",
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://inkcap.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "o8tLdWSi5R4q7LZSy2LMAKzkXAT7kgsSiabZk4hY71hWb5hF3FBhhs1eddA-ZVrpry66o74whueH053-J2P3JA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+  }
+}
