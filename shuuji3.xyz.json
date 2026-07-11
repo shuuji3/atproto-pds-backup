@@ -13,14 +13,14 @@
       "id": "did:plc:6yg3amb6efesrcbrkctyyfio#atproto",
       "type": "Multikey",
       "controller": "did:plc:6yg3amb6efesrcbrkctyyfio",
-      "publicKeyMultibase": "zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+      "publicKeyMultibase": "zQ3shTb4pPosXHqJxziwoyTRGmJuUqAtDyRZu6dhBVhevmMBs"
     }
   ],
   "service": [
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://inkcap.us-east.host.bsky.network"
+      "serviceEndpoint": "https://pds.shuuji3.xyz"
     }
   ]
 }

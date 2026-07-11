@@ -167,3 +167,23 @@
     "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreigixi6e2rf4x33thjentbbccevg3etam4hpvi3teskx2zobfepupi",
+  "rotationKeys": [
+    "did:key:zQ3shaLjVtudfMCf6Kh178fuy6BgDwPPHS9a4DDW4BaykLPft"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://pds.shuuji3.xyz",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "Urrx8A3n_bRlIQ6draKMqBdBfp9hrnwHoQJKgOr_tFwh_YdImYGIismRUPsztGEgTAIgqLjUxWA8RCjWnv0j6A",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shTb4pPosXHqJxziwoyTRGmJuUqAtDyRZu6dhBVhevmMBs"
+  }
+}

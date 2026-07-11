@@ -1,12 +1,10 @@
 {
   "did": "did:plc:6yg3amb6efesrcbrkctyyfio",
   "verificationMethods": {
-    "atproto": "did:key:zQ3shapUiDqVpJVEKcWnaw96kayASUDdnFYaqeVXXZwCsKMuA"
+    "atproto": "did:key:zQ3shTb4pPosXHqJxziwoyTRGmJuUqAtDyRZu6dhBVhevmMBs"
   },
   "rotationKeys": [
-    "did:key:zQ3shuCZ57kYtUB6z5Fca47C4ZWQzGLpsWrpAngTkhig1c9kR",
-    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
-    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+    "did:key:zQ3shaLjVtudfMCf6Kh178fuy6BgDwPPHS9a4DDW4BaykLPft"
   ],
   "alsoKnownAs": [
     "at://shuuji3.xyz"
@@ -14,7 +12,7 @@
   "services": {
     "atproto_pds": {
       "type": "AtprotoPersonalDataServer",
-      "endpoint": "https://inkcap.us-east.host.bsky.network"
+      "endpoint": "https://pds.shuuji3.xyz"
     }
   }
 }
