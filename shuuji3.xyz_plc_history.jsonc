@@ -187,3 +187,24 @@
     "atproto": "did:key:zQ3shTb4pPosXHqJxziwoyTRGmJuUqAtDyRZu6dhBVhevmMBs"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://shuuji3.xyz"
+  ],
+  "prev": "bafyreig7pwxenvd54ar5wclhywicd4mgmjtbmlsrzepijlzcrfjngpz7lu",
+  "rotationKeys": [
+    "did:key:zQ3shYMyG1fgbs1us1HBKbwF46CrP36P2FXDNNfgGsGWLVzJ6",
+    "did:key:zQ3shaLjVtudfMCf6Kh178fuy6BgDwPPHS9a4DDW4BaykLPft"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://pds.shuuji3.xyz",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "svh2s_PG0rESbZqPY3DiqbnjyHqwYc_H3Tsi0lfGJs4UNb5wB0aQJXx2CGlF7uFm57_Sad2-Zatch3mv9FM_NA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shTb4pPosXHqJxziwoyTRGmJuUqAtDyRZu6dhBVhevmMBs"
+  }
+}
